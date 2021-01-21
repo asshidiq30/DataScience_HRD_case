@@ -21,25 +21,24 @@ Linkedin: www.linkedin.com/in/asshidiq
 ├── Datasource
 │   ├── Human_Resources.csv
 ├── Case 1 - Employee Retention Prediction.ipynb
-
-```
-project
-│   README.md
-│   file001.txt    
-│
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
-│   
-└───folder2
-    │   file021.txt
-    │   file022.txt
-```
+├── app
+│   ├── css
+│   │   ├── **/*.css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.html
+│   ├── js
+│   │   ├── **/*.js
+│   └── partials/template
+├── dist (or build)
+├── node_modules
+├── bower_components (if using bower)
+├── test
+├── Gruntfile.js/gulpfile.js
+├── README.md
+├── package.json
+├── bower.json (if using bower)
+└── .gitignore
 
 ## Technology Used
 
