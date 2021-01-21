@@ -18,10 +18,9 @@ Linkedin: www.linkedin.com/in/asshidiq
 4. Executive Summary
 
 ## File Description
-.
-+-- Datasource
-| +-- Human_Resources.csv
-+-- Case 1 - Employee Retention Prediction.ipynb
+├── Datasource
+│   ├── Human_Resources.csv
+├── Case 1 - Employee Retention Prediction.ipynb
 
 ## Technology Used
 
