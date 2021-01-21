@@ -9,4 +9,5 @@ Source: "Data Science for Business | 6 Real-world Case Studies" course by Dr. Ry
 
 ## Business Case
 E-mail: a.asshidiq[at]gmail.com
+
 Linkedin: www.linkedin.com/in/asshidiq(www.linkedin.com/in/asshidiq)
